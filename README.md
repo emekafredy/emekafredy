@@ -4,3 +4,4 @@ I am a full stack web developer with core experience in javascript and ruby. I h
 
 - 🌱 I’m currently on an AI learning path with NDIVIA
 - 📫 How to reach me: [via email](mailto:emeka.s.chinedu@gmail.com)
+- [My-portfolio](https://www.emekac.com)
